@@ -2313,6 +2313,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/fetchai/uAgents">github</a> | <a href="https://github.com/fetchai">github profile</a></p>
 </div>
 
+### Uni-CLI
+<div><a href="https://github.com/olo-dot-io/Uni-CLI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/olo-dot-io/Uni-CLI"><img src="https://img.shields.io/github/stars/olo-dot-io/Uni-CLI?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Uni-CLI is a universal CLI for AI agents with 756 commands across 167 sites (web APIs, desktop apps, Electron apps, browser automation). Features self-repairing 20-line YAML adapters, auto-JSON output in piped mode, and ~80 tokens per call. TypeScript, Apache-2.0</p>
+
+<p><a href="https://github.com/olo-dot-io/Uni-CLI">github</a> | <a href="https://www.npmjs.com/package/@zenalexa/unicli">npm</a></p>
+</div>
+
 ### VacAIgent
 <div><a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/github/stars/tonykipkemboi/trip_planner_agent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 133 stars (Updated: 2025-07-30)</p>
