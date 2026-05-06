@@ -2317,7 +2317,7 @@ Here's an awesome list of AI agents:
 <div><a href="https://github.com/olo-dot-io/Uni-CLI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/olo-dot-io/Uni-CLI"><img src="https://img.shields.io/github/stars/olo-dot-io/Uni-CLI?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
 
-<p>Uni-CLI is a universal CLI for AI agents with 1,458 commands across 238 sites (web APIs, desktop apps, Electron apps, browser automation). Features self-repairing YAML adapters with structured error envelopes and auto-JSON output in piped mode; per-call token budget is published in <a href="https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md"><code>docs/BENCHMARK.md</code></a>. TypeScript, Apache-2.0</p>
+<p>Uni-CLI is a universal CLI for AI agents that exposes web APIs, desktop apps, Electron apps, and browser automation as deterministic commands. Features self-repairing YAML adapters with structured error envelopes and auto-JSON output in piped mode. Live catalog size and per-call token budget are tracked in the repo's <a href="https://github.com/olo-dot-io/Uni-CLI#readme">README</a> and <a href="https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md"><code>docs/BENCHMARK.md</code></a>. TypeScript, Apache-2.0</p>
 
 <p><a href="https://github.com/olo-dot-io/Uni-CLI">github</a> | <a href="https://www.npmjs.com/package/@zenalexa/unicli">npm</a></p>
 </div>
